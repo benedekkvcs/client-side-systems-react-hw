@@ -1,9 +1,5 @@
 # `BME – Client-Side Systems – React Homework Project`
 
-<h2 align="center">
-  <img height="256" width="256" src="./src/assets/preact.svg">
-</h2>
-
 <h3 align="center">This project was created as the React-based homework assignment for the
 **Client-Side Systems** course at the Budapest University of Technology and Economics (BME).</h3>
 
