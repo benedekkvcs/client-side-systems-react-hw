@@ -1,0 +1,32 @@
+.list-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  
+    &.purchased {
+      background-color: #e0ffe0;
+    }
+  
+    .item-details {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+  
+    .item-edit,
+    .item-delete {
+      cursor: pointer;
+    }
+  
+    .item-edit:hover {
+      color: #007bff;
+    }
+  
+    .item-delete:hover {
+      color: #dc3545;
+    }
+  }
+  
